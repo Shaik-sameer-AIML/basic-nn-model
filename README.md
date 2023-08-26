@@ -112,8 +112,8 @@ ai_brain.predict(X_n1_1)
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
-![261984028-0774b9de-3ad8-4f4d-b28c-6fe9791a3e8b](https://github.com/Shaik-sameer-AIML/basic-nn-model/assets/93427186/80d9b925-db40-4d64-b93a-40729b11ce5f)
 
+![download](https://github.com/Shaik-sameer-AIML/basic-nn-model/assets/93427186/4fbaf3ab-123c-470c-8b61-e038da2c5cfc)
 
 
 ### Test Data Root Mean Squared Error
